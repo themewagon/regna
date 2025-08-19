@@ -1,4 +1,4 @@
-# Bell – Free Responsive Bootstrap 5 Business & Corporation Template
+# Regna – Free Bootstrap 5 Business & Corporate Template
 
 #### Preview
 
